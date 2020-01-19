@@ -9,7 +9,7 @@ BFS,DFS,UCS,GUCS &amp; A* Search Algorithm Implementation in Python
 * [run.py](run.py) code for Algorithms
  
 
-#Implemented tasks are as follow :
+# Implemented tasks are as follow :
 
 1. Implementation of `breadth_first_search` in search.py  
 
@@ -20,6 +20,6 @@ BFS,DFS,UCS,GUCS &amp; A* Search Algorithm Implementation in Python
 4. Implementations of `uniform_cost_search` and `greedy_best_first_search`  
 
 
-#ow to Run Programm  
+# How to Run Programm  
 
 1. execute 'run.py' as ==> run `python run.py > out.txt`  
